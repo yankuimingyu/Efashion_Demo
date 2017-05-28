@@ -1,0 +1,9 @@
+Debug/
+*.dep
+*.bat
+*.TMP
+*.wspos
+doxygen/
+firmware_ascii/
+firmware_common/
+
